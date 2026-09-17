@@ -12,7 +12,7 @@ Tecnologías
 
 Estructura importante
 - `config/` — archivos de configuración 
-- `db/dbsistema.sql` — base de datos
+- `db/dbsysfv.sql` — base de datos
 - `files/` — archivos subidos por usuarios 
 
 Instalación (local)
